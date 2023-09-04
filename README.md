@@ -1,6 +1,6 @@
 # Structural-Health-Monitoring
 
-Welcome to the SHM prototype, developed to aid the user in Signal processing and other ML tools for structural health monitoring.
+Welcome to the SHM toolkit developed to aid the user in Signal processing and other ML techniques for structural health monitoring.
 
 ## Installation and Execution
 
