@@ -2,6 +2,8 @@
 
 Welcome to the "SHM toolkit", developed to aid the user in signal processing and other ML techniques for structural health monitoring.
 
+_Advisor: Dr. K S Raju, CSIR-CEERI Pilani_
+
 ## Installation and Execution
 
 Tested with `Ubuntu 20.01.1`, `conda 4.12.0`, `pip 21.3.0`, `Python 3.6.7`.
